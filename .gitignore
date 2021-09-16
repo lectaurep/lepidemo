@@ -1,0 +1,9 @@
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+content/
+Saxon-HE-9.9.1-7.jar
+xmlpage_to_tei.xsl
+referentiel_types_acte.json
