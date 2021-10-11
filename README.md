@@ -20,3 +20,7 @@ LEPIDEMO demonstrates how this transformation can be plugged into eScriptorium a
 The demonstration can be followed step by step using the [lepidemo.ipynb](https://gitlab.inria.fr/almanach/lectaurep/lepidemo/-/blob/master/lepidemo.ipynb) Jupyter scenario. 
 
 ## Cite this work
+
+```
+Chagué, A., & Scheithauer, H. LEPIDEMO, a Pipeline Demonstrator for LECTAUREP to go from eScriptorium to TEI-Publisher [Computer software]
+```
