@@ -8,11 +8,15 @@
 
 ## Going from eScriptorium to TEI-Publisher
 
-The purpose of this demonstration is to show the implementation of a pipeline extracting pre-annotated transcription produced with the software [eScriptorium](https://escriptorium.inria.fr) an producing structured TEI XML files rendering the logical structure of the documents and compatible with [TEI-Publisher](https://teipublisher.com/index.html)
+This demonstration shows the implementation of a pipeline going from PAGE XML to TEI Publisher created within the frame of the [LECTAUREP](https://lectaurep.hypotheses.org/) project. 
+
+LECTAUREP is a project jointly led by Inria (ALMAnaCH) and the Archives nationales de France (DMC). Its purpose is to facilitate the exploration of thousands of pages of directories listing minutes and deeds redacted by Parisians notaries between the beginning of the 19th century and the mid-20th centuries. To do so, LECTAUREP relies on automatic transcription performed with [Kraken](http://kraken.re/) via the [eScriptorium](https://escriptorium.inria.fr) web application.
+
+Images are loaded on the platform, then transcribed and annotated, and finally exported to PAGE XML files. The last section of the pipeline aims at offering users a platform to visualise, querry and read the pages of the directories. An almost ready-to-use solution consist in using [TEI-Publisher](https://teipublisher.com/index.html), which requires transforming the PAGE XML files into compliant TEI XML.
+
+LEPIDEMO demonstrates how this transformation can be plugged into eScriptorium as a simple python script.
 
 ## A Jupyter notebook
+The demonstration can be followed step by step using the [lepidemo.ipynb](https://gitlab.inria.fr/almanach/lectaurep/lepidemo/-/blob/master/lepidemo.ipynb) Jupyter scenario. 
 
-The demonstration is built as a Jupyter Notebook and was developped using [Google Colab](https://colab.research.google.com)
-
-
-
+## Cite this work
