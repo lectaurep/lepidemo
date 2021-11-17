@@ -7,3 +7,5 @@ authors:
   - family-names: Scheithauer
     given-names: Hugo
 title: "LEPIDEMO, a Pipeline Demonstrator for LECTAUREP to go from eScriptorium to TEI-Publisher"
+version: 0.0.1
+url: "https://github.com/lectaurep/lepidemo"
