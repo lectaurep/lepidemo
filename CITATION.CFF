@@ -6,6 +6,9 @@ authors:
     orcid: https://orcid.org/0000-0002-0136-4434
   - family-names: Scheithauer
     given-names: Hugo
+    orcid: https://orcid.org/0000-0002-5659-4675
 title: "LEPIDEMO, a Pipeline Demonstrator for LECTAUREP to go from eScriptorium to TEI-Publisher"
-version: 0.0.1
+version: 1.0
+doi: 10.5072/zenodo.977657
+date-released: 2021-12-07
 url: "https://github.com/lectaurep/lepidemo"
