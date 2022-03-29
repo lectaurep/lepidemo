@@ -4,3 +4,4 @@ jupyter==1.0.0
 lxml==4.2.6
 tqdm==4.62.3
 fuzzywuzzy==0.18.0
+requests==2.26.0
