@@ -66,7 +66,7 @@
       </p>
      </licence>
     </availability>
-    <date when-iso="183-01-2020, 1875-01-2020, 1874-01-2020"/>
+    <date when-iso="1874-01-2020, 1875-01-2020, 183-01-2020"/>
    </publicationStmt>
    <seriesStmt>
     <title type="main">
@@ -106,7 +106,7 @@
   </revisionDesc>
  </teiHeader>
  <sourceDoc>
-  <graphic height="2944px" width="2048px" xml:id="DAFANCH96_023MIC07633_L-0.jpg"/>
+  <graphic height="2944px" url="DAFANCH96_023MIC07633_L-0" width="2048px" xml:id="DAFANCH96_023MIC07633_L-0"/>
   <surfaceGrp facs="#DAFANCH96_023MIC07633_L-0">
    <surface points="1998,215 2018,468 262,474 275,429 265,225 1146,215" type="header" xml:id="eSc_textblock_653e37f9">
     <zone points="1795,284 1797,255 1876,257 1885,247 1908,257 1922,247 1932,257 1969,255 1976,279 1962,306 1905,306 1890,294 1846,309 1799,296" type="mask" xml:id="eSc_line_076e577f">
@@ -957,7 +957,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_b0ea30ca"/>
-       <date cert="high" when-iso="183-01-27, 1875-01-27, 1874-01-27">
+       <date cert="high" when-iso="1874-01-27, 1875-01-27, 183-01-27">
         27
        </date>
       </cell>
@@ -976,7 +976,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_0433c14f"/>
-       <date cert="high" when-iso="183-01-30, 1875-01-30, 1874-01-30">
+       <date cert="high" when-iso="1874-01-30, 1875-01-30, 183-01-30">
         30
        </date>
       </cell>
@@ -993,7 +993,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_d5a337e2"/>
-       <date cert="high" when-iso="183-01-30, 1875-01-30, 1874-01-30">
+       <date cert="high" when-iso="1874-01-30, 1875-01-30, 183-01-30">
         30
        </date>
       </cell>
@@ -1033,7 +1033,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_6529d5d6"/>
-       <date cert="high" when-iso="183-01-30, 1875-01-30, 1874-01-30">
+       <date cert="high" when-iso="1874-01-30, 1875-01-30, 183-01-30">
         30
        </date>
       </cell>
@@ -1052,7 +1052,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_864c37a6"/>
-       <date cert="high" when-iso="183-01-2, 1875-01-2, 1874-01-2">
+       <date cert="high" when-iso="1874-01-2, 1875-01-2, 183-01-2">
         2
        </date>
       </cell>
@@ -1069,7 +1069,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_ca4f6a34"/>
-       <date cert="high" when-iso="183-01-30, 1875-01-30, 1874-01-30">
+       <date cert="high" when-iso="1874-01-30, 1875-01-30, 183-01-30">
         30
        </date>
       </cell>
@@ -1102,7 +1102,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_8c679385"/>
-       <date cert="high" when-iso="183-01-8, 1875-01-8, 1874-01-8">
+       <date cert="high" when-iso="1874-01-8, 1875-01-8, 183-01-8">
         8
        </date>
       </cell>
@@ -1119,7 +1119,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_4d090582"/>
-       <date cert="high" when-iso="183-01-2, 1875-01-2, 1874-01-2">
+       <date cert="high" when-iso="1874-01-2, 1875-01-2, 183-01-2">
         2
        </date>
       </cell>
@@ -1146,7 +1146,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_51ac8c55"/>
-       <date cert="high" when-iso="183-01-2, 1875-01-2, 1874-01-2">
+       <date cert="high" when-iso="1874-01-2, 1875-01-2, 183-01-2">
         2
        </date>
       </cell>
@@ -1165,11 +1165,11 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_62dd4ecf"/>
-       <date cert="high" when-iso="183-01-5, 1875-01-5, 1874-01-5">
+       <date cert="high" when-iso="1874-01-5, 1875-01-5, 183-01-5">
         5
        </date>
        <lb facs="#eSc_line_3907c5ae"/>
-       <date cert="high" when-iso="183-01-5, 1875-01-5, 1874-01-5">
+       <date cert="high" when-iso="1874-01-5, 1875-01-5, 183-01-5">
         5
        </date>
       </cell>
@@ -1186,7 +1186,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_b268b3ba"/>
-       <date cert="high" when-iso="183-01-5, 1875-01-5, 1874-01-5">
+       <date cert="high" when-iso="1874-01-5, 1875-01-5, 183-01-5">
         5
        </date>
       </cell>
@@ -1205,7 +1205,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_c7e7c841"/>
-       <date cert="high" when-iso="183-01-11, 1875-01-11, 1874-01-11">
+       <date cert="high" when-iso="1874-01-11, 1875-01-11, 183-01-11">
         11
        </date>
       </cell>
@@ -1222,7 +1222,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_ab3bb7a5"/>
-       <date cert="high" when-iso="183-01-7, 1875-01-7, 1874-01-7">
+       <date cert="high" when-iso="1874-01-7, 1875-01-7, 183-01-7">
         7
        </date>
       </cell>
@@ -1245,7 +1245,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_f9bd8f26"/>
-       <date cert="high" when-iso="183-01-8, 1875-01-8, 1874-01-8">
+       <date cert="high" when-iso="1874-01-8, 1875-01-8, 183-01-8">
         8
        </date>
       </cell>
@@ -1262,7 +1262,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_631948a7"/>
-       <date cert="high" when-iso="183-01-8, 1875-01-8, 1874-01-8">
+       <date cert="high" when-iso="1874-01-8, 1875-01-8, 183-01-8">
         8
        </date>
       </cell>
@@ -1285,7 +1285,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_f96613d7"/>
-       <date cert="high" when-iso="183-01-8, 1875-01-8, 1874-01-8">
+       <date cert="high" when-iso="1874-01-8, 1875-01-8, 183-01-8">
         8
        </date>
       </cell>
@@ -1302,7 +1302,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_774526f6"/>
-       <date cert="high" when-iso="183-01-9, 1875-01-9, 1874-01-9">
+       <date cert="high" when-iso="1874-01-9, 1875-01-9, 183-01-9">
         9
        </date>
       </cell>
@@ -1321,7 +1321,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_6fad3929"/>
-       <date cert="high" when-iso="183-01-11, 1875-01-11, 1874-01-11">
+       <date cert="high" when-iso="1874-01-11, 1875-01-11, 183-01-11">
         11
        </date>
       </cell>
@@ -1338,7 +1338,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_744ec715"/>
-       <date cert="high" when-iso="183-01-9, 1875-01-9, 1874-01-9">
+       <date cert="high" when-iso="1874-01-9, 1875-01-9, 183-01-9">
         9
        </date>
       </cell>
@@ -1361,7 +1361,7 @@
       </cell>
       <cell n="6" role="col6">
        <lb facs="#eSc_line_c6ddf69d"/>
-       <date cert="high" when-iso="183-01-19, 1875-01-19, 1874-01-19">
+       <date cert="high" when-iso="1874-01-19, 1875-01-19, 183-01-19">
         19
        </date>
       </cell>
@@ -1378,7 +1378,7 @@
       </cell>
       <cell n="2" role="col2">
        <lb facs="#eSc_line_89ac8153"/>
-       <date cert="high" when-iso="183-01-10, 1875-01-10, 1874-01-10">
+       <date cert="high" when-iso="1874-01-10, 1875-01-10, 183-01-10">
         10
        </date>
        <lb facs="#eSc_line_9596f120"/>
@@ -1429,11 +1429,6 @@
      </row>
     </table>
    </div>
-  </body>
- </text>
- <text>
-  <body>
-   <p/>
   </body>
  </text>
 </TEI>

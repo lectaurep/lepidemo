@@ -22,7 +22,10 @@
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
-      <graphic xml:id="FRAN_0025_3657_L-1.jpg" width="2981px" height="4429px"/>
+      <graphic xml:id="FRAN_0025_3657_L-1"
+               url="FRAN_0025_3657_L-1"
+               width="2981px"
+               height="4429px"/>
       <surfaceGrp facs="#FRAN_0025_3657_L-1">
          <surface xml:id="eSc_textblock_476f12fa"
                   type="header"
@@ -1192,9 +1195,4 @@
                   points="1175,201 1175,513 1528,516 1536,557 1944,573 1986,336 1591,327 1591,324 1599,201"/>
       </surfaceGrp>
    </sourceDoc>
-   <text>
-      <body>
-         <p/>
-      </body>
-   </text>
 </TEI>

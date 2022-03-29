@@ -106,7 +106,7 @@
   </revisionDesc>
  </teiHeader>
  <sourceDoc>
-  <graphic height="4393px" width="3044px" xml:id="FRAN_0025_1290_L-1.jpg"/>
+  <graphic height="4393px" url="FRAN_0025_1290_L-1" width="3044px" xml:id="FRAN_0025_1290_L-1"/>
   <surfaceGrp facs="#FRAN_0025_1290_L-1">
    <surface points="116,322 116,676 888,674 561,653 581,401 1013,438 987,667 2790,677 2795,319 1563,334 1593,568 1155,630 1131,406 1549,328 1009,326 273,323" type="header" xml:id="eSc_textblock_2e39cb10">
     <zone points="2446,413 2450,366 2472,362 2677,366 2688,410 2677,446 2582,442 2567,428 2450,439" type="mask" xml:id="eSc_line_e039e12c">
@@ -2198,11 +2198,6 @@
      </row>
     </table>
    </div>
-  </body>
- </text>
- <text>
-  <body>
-   <p/>
   </body>
  </text>
 </TEI>

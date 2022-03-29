@@ -22,7 +22,8 @@
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
-      <graphic xml:id="DAFANCH96_023MIC07645_L-0.jpg"
+      <graphic xml:id="DAFANCH96_023MIC07645_L-0"
+               url="DAFANCH96_023MIC07645_L-0"
                width="2032px"
                height="2912px"/>
       <surfaceGrp facs="#DAFANCH96_023MIC07645_L-0">
@@ -1093,9 +1094,4 @@
          </surface>
       </surfaceGrp>
    </sourceDoc>
-   <text>
-      <body>
-         <p/>
-      </body>
-   </text>
 </TEI>

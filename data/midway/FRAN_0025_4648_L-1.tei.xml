@@ -22,7 +22,10 @@
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
-      <graphic xml:id="FRAN_0025_4648_L-1.jpg" width="2996px" height="4365px"/>
+      <graphic xml:id="FRAN_0025_4648_L-1"
+               url="FRAN_0025_4648_L-1"
+               width="2996px"
+               height="4365px"/>
       <surfaceGrp facs="#FRAN_0025_4648_L-1">
          <surface xml:id="eSc_textblock_5d6930a3"
                   type="header"
@@ -1688,9 +1691,4 @@
          </surface>
       </surfaceGrp>
    </sourceDoc>
-   <text>
-      <body>
-         <p/>
-      </body>
-   </text>
 </TEI>

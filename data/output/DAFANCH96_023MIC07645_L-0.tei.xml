@@ -106,7 +106,7 @@
   </revisionDesc>
  </teiHeader>
  <sourceDoc>
-  <graphic height="2912px" width="2032px" xml:id="DAFANCH96_023MIC07645_L-0.jpg"/>
+  <graphic height="2912px" url="DAFANCH96_023MIC07645_L-0" width="2032px" xml:id="DAFANCH96_023MIC07645_L-0"/>
   <surfaceGrp facs="#DAFANCH96_023MIC07645_L-0">
    <surface points="1954,215 1955,465 207,472 194,434 213,223 1684,213" type="header" xml:id="eSc_textblock_1ed1fd0b">
     <zone points="1721,283 1735,254 1866,252 1891,259 1896,286 1888,305 1849,305 1825,293 1745,303 1723,296" type="mask" xml:id="eSc_line_ebc8c1fc">
@@ -1848,11 +1848,6 @@
      </row>
     </table>
    </div>
-  </body>
- </text>
- <text>
-  <body>
-   <p/>
   </body>
  </text>
 </TEI>
