@@ -22,6 +22,13 @@ LEPIDEMO demonstrates how this transformation can be plugged into eScriptorium a
 ## A Jupyter notebook
 The demonstration can be followed step by step using the [lepidemo.ipynb](https://gitlab.inria.fr/almanach/lectaurep/lepidemo/-/blob/master/lepidemo.ipynb) Jupyter scenario. 
 
+## Installation
+
+* Create a python virtual environment: `virtualenv -p python3 [ENVIRONMENT NAME]
+* Activate it `source [ENVIRONMENT NAME]/bin/activate`
+* Then launch Jupyter with `jupyter notebook`
+* Open`lepidemo.ipynb` with jupyter browser and then follow cells instructions.
+
 ## Cite this work
 
 ```
